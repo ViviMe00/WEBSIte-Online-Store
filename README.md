@@ -1,6 +1,3 @@
-# WEBSIte-Online-Store
-An online store made for a client.
-
 # WordPress Online Store This online store was developed for a client using **WordPress**, focusing on performance, practicality, and full resource integration. 
 
 ## Main Features - **Bank integrations** via plugins optimized for online payments. 
